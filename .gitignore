@@ -399,12 +399,7 @@ FodyWeavers.xsd
 /ScreenSound/.vs/ScreenSound/v17/DocumentLayout.json
 /ScreenSound/.vs/ScreenSound/v17/.suo
 /ScreenSound/.vs/ScreenSound/DesignTimeBuild/.dtbcache.v2
-/ScreenSound/ScreenSound/obj/Debug/net8.0/ref/ScreenSound.dll
-/ScreenSound/ScreenSound/obj/Debug/net8.0/ScreenSound.AssemblyInfo.cs
-/ScreenSound/ScreenSound/obj/Debug/net8.0/ScreenSound.dll
-/ScreenSound/ScreenSound/obj/Debug/net8.0/ScreenSound.pdb
-/ScreenSound/ScreenSound/obj/Debug/net8.0/ScreenSound.csproj.FileListAbsolute.txt
-/ScreenSound/ScreenSound/obj/Debug/net8.0/apphost.exe
-/ScreenSound/ScreenSound/bin/Debug/net8.0/ScreenSound.dll
-/ScreenSound/ScreenSound/bin/Debug/net8.0/ScreenSound.exe
-/ScreenSound/ScreenSound/obj/Debug/net8.0/ScreenSound.AssemblyInfoInputs.cache
+/ScreenSound/ScreenSound/*
+
+/ScreenSound/ScreenSound/bin/Debug/net8.0/ScreenSound.pdb
+/ScreenSound/ScreenSound/obj/Debug/net8.0/refint/ScreenSound.dll
