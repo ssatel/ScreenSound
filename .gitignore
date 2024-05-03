@@ -401,5 +401,5 @@ FodyWeavers.xsd
 /ScreenSound/.vs/ScreenSound/DesignTimeBuild/.dtbcache.v2
 /ScreenSound/ScreenSound/*
 
-/ScreenSound/ScreenSound/bin/Debug/net8.0/ScreenSound.pdb
-/ScreenSound/ScreenSound/obj/Debug/net8.0/refint/ScreenSound.dll
+/ScreenSound/ScreenSound/bin/*
+/ScreenSound/ScreenSound/obj/*
