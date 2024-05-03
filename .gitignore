@@ -396,3 +396,6 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+/ScreenSound/.vs/ScreenSound/v17/DocumentLayout.json
+/ScreenSound/.vs/ScreenSound/v17/.suo
+/ScreenSound/.vs/ScreenSound/DesignTimeBuild/.dtbcache.v2
