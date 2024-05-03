@@ -1,6 +1,6 @@
 ﻿using(HttpClient client =  new HttpClient())
 {
-	var testeDeuBom = false;
+	var testeDeuBom = true;
 	var endPointCorreto = "https://guilhermeonrails.github.io/api-csharp-songs/songs.json";
     var endPointQuebrado = "https://guilhermeonrails.github.io/api-csharp-songs/songs.jso";
 
