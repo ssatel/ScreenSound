@@ -2,7 +2,7 @@
 {
 	try
 	{
-		var cats = await client.GetStringAsync("https://cataas.com/api/tags");
+		var cats = await client.GetStringAsync("https://anapioficeandfire.com/api/characters/583");
 
 		Console.WriteLine(cats);
 
