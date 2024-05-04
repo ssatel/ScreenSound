@@ -23,7 +23,15 @@ try
 
     var itemLista = listainteiros.IndexOf(numeroItem);
 
-    Console.WriteLine(itemLista.ToString());
+    if (itemLista != -1)
+    {
+        Console.WriteLine(itemLista.ToString());
+    }
+    else
+    {
+        throw new Exception("Errou!!!");
+    }
+
 
 
 }
