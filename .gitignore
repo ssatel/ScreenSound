@@ -403,3 +403,7 @@ FodyWeavers.xsd
 
 /ScreenSound/ScreenSound/bin/*
 /ScreenSound/ScreenSound/obj/*
+*.csproj
+*.bin
+*.v2
+*.sln
