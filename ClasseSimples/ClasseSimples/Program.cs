@@ -1,6 +1,22 @@
-﻿// See https://aka.ms/new-console-template for more information
+﻿
+using ClasseSimples;
+
 Console.WriteLine("Hello, World!");
 
-var classeSimples = new ClasseSimples();
 
+var classeSimples = new NovaClasseSimples();
+	
+try
+{
+
+	NovaClasseSimples copiaClasse = null;
+
+    copiaClasse.MetodoClasseSimple();
+
+}
+catch (NullReferenceException ex)
+{
+	Console.WriteLine($"{ex.Message}");
+
+}
 
